@@ -25,6 +25,3 @@ A fully functional **Myntra Clone** built using **HTML, CSS, and JavaScript**, f
 - **Material Symbols** for icons
 
 ---
-
-## 🔹 Project Structure
-
